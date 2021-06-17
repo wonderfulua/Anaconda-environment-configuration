@@ -28,6 +28,7 @@ downlaod!
                ![image](https://user-images.githubusercontent.com/45660355/122345836-e16e6400-cf7a-11eb-90ec-9b983cf4ef67.png)
             (different device  can choose diffrent choice)
   
-    you can see the process in the console :![image](https://user-images.githubusercontent.com/45660355/122346011-167ab680-cf7b-11eb-94af-cbfcb7281398.png)
+    you can see the process in the console :![image](https://user-images.githubusercontent.com/45660355/122346339-6d808b80-cf7b-11eb-829a-0a0e10665da6.png)
+
 
 
