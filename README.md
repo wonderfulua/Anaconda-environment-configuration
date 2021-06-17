@@ -1,4 +1,4 @@
-### Anaconda-government-configuration
+### Anaconda-environment-configuration
 
 1.reach url:https://www.anaconda.com/products/individual
 ![image](https://user-images.githubusercontent.com/45660355/122343255-1a590980-cf78-11eb-8963-bf0ef7e79c01.png)
