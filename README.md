@@ -32,5 +32,6 @@ downlaod!
     you can see the process in the console :![image](https://user-images.githubusercontent.com/45660355/122346764-e7187980-cf7b-11eb-9da1-c1c6285e62fc.png)
 
 
+5. you can choose pycharm to edit and install choice : ![image](https://user-images.githubusercontent.com/45660355/122347017-2ba41500-cf7c-11eb-9621-fec87ad4b43b.png)
 
 
