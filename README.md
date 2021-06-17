@@ -25,10 +25,12 @@ downlaod!
             ![image](https://user-images.githubusercontent.com/45660355/122345272-42496c80-cf7a-11eb-8ad4-1197a0f21096.png)
     
     so now we should entype the 'Run this Command' into console:
-               ![image](https://user-images.githubusercontent.com/45660355/122345836-e16e6400-cf7a-11eb-90ec-9b983cf4ef67.png)
+            ![image](https://user-images.githubusercontent.com/45660355/122346499-9acd3980-cf7b-11eb-9dc1-3ab3b67989d6.png)
+
             (different device  can choose diffrent choice)
   
-    you can see the process in the console :![image](https://user-images.githubusercontent.com/45660355/122346339-6d808b80-cf7b-11eb-829a-0a0e10665da6.png)
+    you can see the process in the console :![image](https://user-images.githubusercontent.com/45660355/122346764-e7187980-cf7b-11eb-9da1-c1c6285e62fc.png)
+
 
 
 
